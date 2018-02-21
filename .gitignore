@@ -1,0 +1,41 @@
+# Java #
+########
+*.class
+*.jar
+*.war
+*.ear
+
+# Eclipse#
+##########
+.studio
+.settings
+.mule
+.metadata
+.loadpath
+.settings
+.idea
+.metadata
+*.iml
+*.ipr
+*.launch
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+bin
+tmp
+workspace
+catalog
+archive
+objectstore
+src/test
+src/main/api/.repository/ 
+
+# Maven #
+#########
+# Ensure not commented out when using Maven
+#.classpath
+#.project
+# Produced by Maven
+target
